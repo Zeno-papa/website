@@ -15,7 +15,8 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'Zeno-papa', // Usually your GitHub org/user name.
   projectName: 'website', // Usually your repo name.
-
+  deploymentBranch:'master',
+  
   presets: [
     [
       'classic',
