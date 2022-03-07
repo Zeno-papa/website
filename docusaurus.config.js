@@ -42,11 +42,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        apiKey: "33843c1b27663cc760ddc60811ba51d7",
-        indexName: "saleor",
-        placeholder: "Search Saleor Documentation",
-      },
       navbar: {
         title: 'My Site',
         logo: {
